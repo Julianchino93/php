@@ -1,0 +1,56 @@
+Este es un mensaje
+\Datos del array ==> 
+8
+9
+10
+7
+6
+
+
+Datos del array ==> 
+8
+9
+10
+7
+6
+
+Datos del array ==> 
+8
+9
+10
+7
+6
+
+Datos de la variable ==>
+
+
+Datos de la variable ==>
+Este es un mensaje
+
+Datos de la variable ==>
+
+
+Datos de la variable ==>
+Este es un mensaje
+
+Datos de la variable ==>
+
+
+Datos de la variable ==>
+Este es un mensaje
+
+Datos de la variable ==>
+
+
+Datos de la variable ==>
+Este es un mensaje
+
+Datos del array ==> 
+9
+8
+6
+7
+10
+
+Datos de la variable ==>
+Este es un mensaje

@@ -42,7 +42,7 @@ $aPacientes[] = array(
 </head>
 <body>
     <main class="container">
-        <div class="col-12">
+        <div class="col-12 py-3">
             <h1>Listado de pacientes</h1>
         </div>
         <table class="table table-hover border">
@@ -57,7 +57,10 @@ $aPacientes[] = array(
             <tbody>
                 <?php foreach($aPacientes as $valor){?>
                 <tr>
+                <td><?php echo $valor["dni"]; ?></td>
                 <td><?php echo $valor["nombre"]; ?></td>
+                <td><?php echo $valor["edad"]; ?></td>
+                <td><?php echo $valor["peso"]; ?></td>
                 
                 </tr>
                  <?php } ?>
